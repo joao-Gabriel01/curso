@@ -1,5 +1,5 @@
 a=5
 b=3
-resulto= a+6
-print(resulto)
+resultado= a+6
+print(resultado)
 print(5+3)
